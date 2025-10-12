@@ -1,16 +1,5 @@
-<h1 align="center">
-  <pre>
-  ███╗░░░███╗░█████╗░███████╗███████╗██████╗░██╗░░██╗
-  ████╗░████║██╔══██╗╚════██║╚════██║██╔══██╗██║░░██║
-  ██╔████╔██║██║░░██║░░███╔═╝░░███╔═╝██████╔╝███████║
-  ██║╚██╔╝██║██║░░██║██╔══╝░░██╔══╝░░██╔═══╝░██╔══██║
-  ██║░╚═╝░██║╚█████╔╝███████╗███████╗██║░░░░░██║░░██║
-  ╚═╝░░░░░╚═╝░╚════╝░╚══════╝╚══════╝╚═╝░░░░░╚═╝░░╚═╝
-  </pre>
-</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hi+I'm+Joseph+%F0%9F%91%91;Web+Pentester;Fullstack+Dev;Cybersec+Enthusiast;Terminal+>+GUI.;Hack+the+Planet+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=ffcfff&center=true&vCenter=true&width=435&lines=Hi+I'm+Joseph+%F0%9F%91%91;Web+Pentester;Fullstack+Dev;Cybersec+Enthusiast;Terminal+>+GUI.;Hack+the+Planet+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 
@@ -87,10 +76,8 @@ TryHackMe Rank: 🔓
 </p>
 
 ## 🛰️ Visitor Trace
+![](https://komarev.com/ghpvc/?username=josepht273)
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/josepht273/count.svg" />
-</p>
 
 
 ```bash
