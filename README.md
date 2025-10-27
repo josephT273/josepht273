@@ -77,10 +77,3 @@ TryHackMe Rank: 🔓
 
 ## 🛰️ Visitor Trace
 ![](https://komarev.com/ghpvc/?username=josepht273)
-
-
-
-```bash
-# ░S░T░A░Y░ ░H░I░D░D░E░N░ ░▌▌
-# ░C░O░D░E░ ░H░A░R░D░ ░|░ ░H░A░C░K░ ░H░A░R░D░E░R░
-```
