@@ -40,8 +40,6 @@ Building: GoLang CLI Tools & Exploit Frameworks
 TryHackMe Rank: 🔓
 ```
 
-![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/josephT273.png)
-
 
 ## 🛰️ Connect with me
 
