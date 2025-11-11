@@ -1,9 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=ffcfff&center=true&vCenter=true&width=435&lines=Hi+I'm+Joseph+%F0%9F%91%91;Web+Pentester;Fullstack+Dev;Cybersec+Enthusiast;Terminal+>+GUI.;Hack+the+Planet+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
-
-
-## 💻 whoami
+## whoami
 
 ```bash
 > Software Engineer | Junior Pentester | Terminal Junkie
@@ -14,7 +9,7 @@
 ````
 
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 ```bash
 # LANGUAGES
@@ -31,7 +26,7 @@
 ```
 
 
-## 🛡️ Hacker Mode
+## Hacker Mode
 
 ```bash
 # recon-ng . spider . inject . shell
@@ -41,7 +36,7 @@ TryHackMe Rank: 🔓
 ```
 
 
-## 🛰️ Connect with me
+## Connect with me
 
 ```bash
 [ Telegram ]   → https://t.me/josepht273
@@ -51,27 +46,21 @@ TryHackMe Rank: 🔓
 ```
 
 
-## 📊 GitHub Recon
+## GitHub Recon
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=josepht273&theme=radical&hide_border=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=josepht273&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josepht273&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=josepht273&theme=radical&border=true&count_private=true&type=horizontal" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=josepht273&theme=radical&border=true&type=horizontal" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josepht273&layout=compact&theme=radical&border=true&type=horizontal" />
 </p>
 
 
-## 🏆 GitHub Trophy Wall
+
+## Dev Quote
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=josepht273&theme=matrix&no-bg=true&no-frame=true" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&type=horizontal" />
 </p>
 
-
-## 🧠 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
-
-## 🛰️ Visitor Trace
+## Visitor Trace
 ![](https://komarev.com/ghpvc/?username=josepht273)
