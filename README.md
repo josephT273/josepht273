@@ -1,5 +1,7 @@
-## whoami
+[![](https://wakatime.com/badge/user/566bbf6c-bfcc-43f8-80f7-4ae890efd6f5.svg)](https://wakatime.com/@566bbf6c-bfcc-43f8-80f7-4ae890efd6f5)
+![](https://komarev.com/ghpvc/?username=josepht273)
 
+## whoami
 ```bash
 > Software Engineer | Junior Pentester | Terminal Junkie
 > Passion: Code. Break. Secure. Repeat.
@@ -62,5 +64,4 @@ TryHackMe Rank: 🔓
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&type=horizontal" />
 </p>
 
-## Visitor Trace
-![](https://komarev.com/ghpvc/?username=josepht273)
+
